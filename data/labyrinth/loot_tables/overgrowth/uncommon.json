@@ -1,0 +1,356 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:gold_ingot",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.04
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": {
+            "min": 2,
+            "max": 4
+          }
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:honey_bottle",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.05
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": {
+            "min": 1,
+            "max": 5
+          }
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:honeycomb",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.05
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": {
+            "min": 1,
+            "max": 5
+          }
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bone",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.02
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": {
+            "min": 1,
+            "max": 2
+          }
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_ingot",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.06
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": {
+            "min": 2,
+            "max": 6
+          }
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:copper_ingot",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.06
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": {
+            "min": 5,
+            "max": 12
+          }
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:slime_ball",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.04
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": {
+            "min": 3,
+            "max": 6
+          }
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:spore_blossom",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.01
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": 1
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:small_dripleaf",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.01
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": {
+            "min": 1,
+            "max": 2
+          }
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:moss_block",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.03
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": {
+            "min": 1,
+            "max": 3
+          }
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:emerald",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.03
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": {
+            "min": 1,
+            "max": 3
+          }
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:prismarine_crystals",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.04
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": {
+            "min": 5,
+            "max": 10
+          }
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:prismarine_shard",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.04
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": {
+            "min": 12,
+            "max": 20
+          }
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:snort_pottery_sherd",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.02
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": 1
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:shelter_pottery_sherd",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.02
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": 1
+        }
+      ]
+    }
+  ]
+}

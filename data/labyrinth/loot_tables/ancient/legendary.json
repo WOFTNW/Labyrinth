@@ -1,0 +1,336 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:netherite_ingot",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.03
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": 1
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:diamond",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.13
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": {
+            "min": 2,
+            "max": 4
+          }
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:netherite_upgrade_smithing_template",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.05
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": {
+            "min": 1,
+            "max": 2
+          }
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_golden_apple",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.005
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": 1
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:nether_star",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.01
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": 1
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_relic",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.02
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": 1
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_block",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.08
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": {
+            "min": 2,
+            "max": 5
+          }
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:diamond_block",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.03
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": 1
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:ancient_debris",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.1
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": 1
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:gold_block",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.07
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": {
+            "min": 2,
+            "max": 6
+          }
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_ingot",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.08
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": {
+            "min": 6,
+            "max": 12
+          }
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:gold_ingot",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.07
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": {
+            "min": 2,
+            "max": 6
+          }
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:trident",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.015
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": 1
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:sniffer_egg",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.015
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": 1
+        }
+      ]
+    },
+    {
+      "rolls": {
+        "type": "minecraft:binomial",
+        "n": 1,
+        "p": 0.01
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:stone_sword",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{Damage:0,display:{Lore:['{\"text\":\"An old hematite dagger with\",\"italic\":false}','{\"text\":\"trace amounts of blood\",\"italic\":false}'],Name:'{\"text\":\"Hematite Dagger\",\"color\":\"yellow\",\"italic\":false}'}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

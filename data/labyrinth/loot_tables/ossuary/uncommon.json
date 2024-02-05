@@ -1,0 +1,311 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:blaze_rod",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.04
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": {
+            "min": 1,
+            "max": 2
+          }
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:glowstone_dust",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.03
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": {
+            "min": 15,
+            "max": 26
+          }
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:wither_rose",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.02
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": {
+            "min": 1,
+            "max": 4
+          }
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bone",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.04
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": {
+            "min": 4,
+            "max": 7
+          }
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_ingot",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.09
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": {
+            "min": 3,
+            "max": 6
+          }
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:copper_ingot",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.06
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": {
+            "min": 4,
+            "max": 9
+          }
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:magma_cream",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.03
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": {
+            "min": 2,
+            "max": 4
+          }
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:blaze_powder",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.03
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": {
+            "min": 2,
+            "max": 5
+          }
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:gold_ingot",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.06
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": {
+            "min": 2,
+            "max": 5
+          }
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:diamond",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.01
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": {
+            "min": 1,
+            "max": 2
+          }
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:crying_obsidian",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.04
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": {
+            "min": 2,
+            "max": 6
+          }
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:burn_pottery_sherd",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.03
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": 1
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:danger_pottery_sherd",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.02
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "type": "minecraft:binomial",
+        "n": 1,
+        "p": 0.02
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:turtle_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{Damage:0,Enchantments:[{id:\"minecraft:protection\",lvl:4s},{id:\"minecraft:respiration\",lvl:3s}],Trim:{material:\"minecraft:emerald\",pattern:\"minecraft:silence\"},display:{Lore:['{\"text\":\"An artificial turtle shell\",\"italic\":false}','{\"text\":\"made of emerald\",\"italic\":false}'],Name:'{\"text\":\"Emerald Shell\",\"color\":\"aqua\",\"italic\":false}'}}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_ingot",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.1
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": {
+            "min": 3,
+            "max": 8
+          }
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:gold_ingot",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.08
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": {
+            "min": 3,
+            "max": 6
+          }
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:diamond",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.08
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": {
+            "min": 1,
+            "max": 3
+          }
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "labyrinth:random_enchant",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.02
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": 1
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:snort_pottery_sherd",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.01
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": 1
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:shelter_pottery_sherd",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.01
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": 1
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:wild_armor_trim_smithing_template",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.02
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": 1
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:slime_block",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.03
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": {
+            "min": 1,
+            "max": 3
+          }
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:honey_bottle",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.06
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": {
+            "min": 4,
+            "max": 9
+          }
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:honeycomb",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.06
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": {
+            "min": 3,
+            "max": 7
+          }
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_carrot",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.04
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": {
+            "min": 1,
+            "max": 3
+          }
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:axolotl_bucket",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.01
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": 1
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:scute",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.06
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": {
+            "min": 1,
+            "max": 2
+          }
+        }
+      ]
+    },
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:coast_armor_trim_smithing_template",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.02
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:limit_count",
+          "limit": 1
+        }
+      ]
+    }
+  ]
+}
