@@ -14,7 +14,7 @@
           "functions": [
             {
               "function": "minecraft:set_nbt",
-              "tag": "{display:{Lore:['{\"text\":\"A bowl of aspen wood\",\"italic\":false}','{\"text\":\"thousands of years old\",\"italic\":false}'],Name:'{\"text\":\"Aspen Dish\",\"color\":\"yellow\",\"italic\":false}'}}"
+              "tag": "{display:{Lore:['{\"text\":\"\",\"extra\":[{\"text\":\"Lost Labyrinth of Ptah\",\"italic\":false,\"color\":\"gray\"}]}','{\"text\":\"A bowl of aspen wood\",\"italic\":false}','{\"text\":\"thousands of years old\",\"italic\":false}'],Name:'{\"text\":\"Aspen Dish\",\"color\":\"yellow\",\"italic\":false}'}}"
             }
           ]
         }

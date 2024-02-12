@@ -14,7 +14,7 @@
           "functions": [
             {
               "function": "minecraft:set_nbt",
-              "tag": "{Damage:0,Enchantments:[{id:\"minecraft:protection\",lvl:4s},{id:\"minecraft:respiration\",lvl:3s}],Trim:{material:\"minecraft:emerald\",pattern:\"minecraft:silence\"},display:{Lore:['{\"text\":\"An artificial turtle shell\",\"italic\":false}','{\"text\":\"made of emerald\",\"italic\":false}'],Name:'{\"text\":\"Emerald Shell\",\"color\":\"aqua\",\"italic\":false}'}}"
+              "tag": "{Damage:0,Enchantments:[{id:\"minecraft:protection\",lvl:4s},{id:\"minecraft:respiration\",lvl:3s}],Trim:{material:\"minecraft:emerald\",pattern:\"minecraft:silence\"},display:{Lore:['{\"text\":\"\",\"extra\":[{\"text\":\"Lost Labyrinth of Ptah\",\"italic\":false,\"color\":\"gray\"}]}','{\"text\":\"An artificial turtle shell\",\"italic\":false}','{\"text\":\"made of emerald\",\"italic\":false}'],Name:'{\"text\":\"Emerald Shell\",\"color\":\"aqua\",\"italic\":false}'}}"
             }
           ]
         }

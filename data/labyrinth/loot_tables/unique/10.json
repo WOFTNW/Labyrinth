@@ -14,7 +14,7 @@
           "functions": [
             {
               "function": "minecraft:set_nbt",
-              "tag": "{Damage:0,Enchantments:[{id:\"minecraft:punch\",lvl:2s}],display:{Lore:['{\"text\":\"Ancient bow from an old\",\"italic\":false}','{\"text\":\"human-fantasy hybrid race\",\"italic\":false}'],Name:'{\"text\":\"Belthronding\",\"color\":\"aqua\",\"italic\":false}'}}"
+              "tag": "{Damage:0,Enchantments:[{id:\"minecraft:punch\",lvl:2s}],display:{Lore:['{\"text\":\"\",\"extra\":[{\"text\":\"Lost Labyrinth of Ptah\",\"italic\":false,\"color\":\"gray\"}]}','{\"text\":\"Ancient bow from an old\",\"italic\":false}','{\"text\":\"human-fantasy hybrid race\",\"italic\":false}'],Name:'{\"text\":\"Belthronding\",\"color\":\"aqua\",\"italic\":false}'}}"
             }
           ]
         }

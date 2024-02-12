@@ -14,7 +14,7 @@
           "functions": [
             {
               "function": "minecraft:set_nbt",
-              "tag": "{Damage:0,Enchantments:[{id:\"minecraft:mending\",lvl:1s},{id:\"minecraft:thorns\",lvl:3s}],display:{Lore:['{\"text\":\"A crown of golded laurel\",\"italic\":false}','{\"text\":\"leaves and thorns\",\"italic\":false}'],Name:'{\"text\":\"Gilded Laurel Garland\",\"color\":\"aqua\",\"italic\":false}'}}"
+              "tag": "{Damage:0,Enchantments:[{id:\"minecraft:mending\",lvl:1s},{id:\"minecraft:thorns\",lvl:3s}],display:{Lore:['{\"text\":\"\",\"extra\":[{\"text\":\"Lost Labyrinth of Ptah\",\"italic\":false,\"color\":\"gray\"}]}','{\"text\":\"A crown of golded laurel\",\"italic\":false}','{\"text\":\"leaves and thorns\",\"italic\":false}'],Name:'{\"text\":\"Gilded Laurel Garland\",\"color\":\"aqua\",\"italic\":false}'}}"
             }
           ]
         }

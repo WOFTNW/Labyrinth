@@ -303,6 +303,25 @@
           }
         }
       ]
+    },
+    {
+      "rolls": {
+        "type": "minecraft:binomial",
+        "n": 1,
+        "p": 0.01
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:fishing_rod",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Lore:['{\"text\":\"\",\"extra\":[{\"text\":\"Lost Labyrinth of Ptah\",\"italic\":false,\"color\":\"gray\"}]}','{\"extra\":[{\"italic\":false,\"color\":\"dark_purple\",\"text\":\"A human tool for catching fish\"}],\"text\":\"\"}','{\"extra\":[{\"italic\":false,\"color\":\"dark_purple\",\"text\":\"(we don\\'t need it)\"}],\"text\":\"\"}'],Name:'{\"extra\":[{\"italic\":false,\"color\":\"yellow\",\"text\":\"Damaged Spinning Rod\"}],\"text\":\"\"}'}}"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

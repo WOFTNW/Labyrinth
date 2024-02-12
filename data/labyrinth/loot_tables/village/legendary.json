@@ -287,7 +287,7 @@
           "functions": [
             {
               "function": "minecraft:set_nbt",
-              "tag": "{Damage:0,Trim:{material:\"minecraft:gold\",pattern:\"minecraft:spire\"},display:{Lore:['{\"text\":\"Boots of a royal guardsman\",\"italic\":false}'],Name:'{\"extra\":[{\"italic\":false,\"color\":\"yellow\",\"text\":\"Royal Guard Boots\"}],\"text\":\"\"}',color:16711680}}"
+              "tag": "{Damage:0,Trim:{material:\"minecraft:gold\",pattern:\"minecraft:spire\"},display:{Lore:['{\"text\":\"\",\"extra\":[{\"text\":\"Lost Labyrinth of Ptah\",\"italic\":false,\"color\":\"gray\"}]}','{\"text\":\"Boots of a royal guardsman\",\"italic\":false}'],Name:'{\"extra\":[{\"italic\":false,\"color\":\"yellow\",\"text\":\"Royal Guard Boots\"}],\"text\":\"\"}',color:16711680}}"
             }
           ]
         }
@@ -306,7 +306,7 @@
           "functions": [
             {
               "function": "minecraft:set_nbt",
-              "tag": "{Damage:0,Trim:{material:\"minecraft:gold\",pattern:\"minecraft:wild\"},display:{Lore:['{\"text\":\"Leggings of a royal guardsman\",\"italic\":false}'],Name:'{\"extra\":[{\"italic\":false,\"color\":\"yellow\",\"text\":\"Royal Guard Leggings\"}],\"text\":\"\"}'}}"
+              "tag": "{Damage:0,Trim:{material:\"minecraft:gold\",pattern:\"minecraft:wild\"},display:{Lore:['{\"text\":\"\",\"extra\":[{\"text\":\"Lost Labyrinth of Ptah\",\"italic\":false,\"color\":\"gray\"}]}','{\"text\":\"Leggings of a royal guardsman\",\"italic\":false}'],Name:'{\"extra\":[{\"italic\":false,\"color\":\"yellow\",\"text\":\"Royal Guard Leggings\"}],\"text\":\"\"}'}}"
             }
           ]
         }
@@ -325,7 +325,7 @@
           "functions": [
             {
               "function": "minecraft:set_nbt",
-              "tag": "{Damage:0,Trim:{material:\"minecraft:gold\",pattern:\"minecraft:sentry\"},display:{Lore:['{\"text\":\"Chestplate of a royal guardsman\",\"italic\":false}'],Name:'{\"text\":\"Royal Guard Chestplate\",\"color\":\"yellow\",\"italic\":false}',color:16711680}}"
+              "tag": "{Damage:0,Trim:{material:\"minecraft:gold\",pattern:\"minecraft:sentry\"},display:{Lore:['{\"text\":\"\",\"extra\":[{\"text\":\"Lost Labyrinth of Ptah\",\"italic\":false,\"color\":\"gray\"}]}','{\"text\":\"Chestplate of a royal guardsman\",\"italic\":false}'],Name:'{\"text\":\"Royal Guard Chestplate\",\"color\":\"yellow\",\"italic\":false}',color:16711680}}"
             }
           ]
         }
@@ -344,7 +344,7 @@
           "functions": [
             {
               "function": "minecraft:set_nbt",
-              "tag": "{Damage:0,Trim:{material:\"minecraft:gold\",pattern:\"minecraft:silence\"},display:{Lore:['{\"text\":\"Helmet of a royal guardsman\",\"italic\":false}'],Name:'{\"text\":\"Royal Guard Helmet\",\"color\":\"yellow\",\"italic\":false}'}}"
+              "tag": "{Damage:0,Trim:{material:\"minecraft:gold\",pattern:\"minecraft:silence\"},display:{Lore:['{\"text\":\"\",\"extra\":[{\"text\":\"Lost Labyrinth of Ptah\",\"italic\":false,\"color\":\"gray\"}]}','{\"text\":\"Helmet of a royal guardsman\",\"italic\":false}'],Name:'{\"text\":\"Royal Guard Helmet\",\"color\":\"yellow\",\"italic\":false}'}}"
             }
           ]
         }

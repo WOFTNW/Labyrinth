@@ -305,7 +305,7 @@
           "functions": [
             {
               "function": "minecraft:set_nbt",
-              "tag": "{Damage:0,display:{Lore:['{\"text\":\"A broken recurve bow of aspen wood\",\"italic\":false}'],Name:'{\"text\":\"Ancient Recurve\",\"color\":\"yellow\",\"italic\":false}'}}"
+              "tag": "{Damage:0,display:{Lore:['{\"text\":\"\",\"extra\":[{\"text\":\"Lost Labyrinth of Ptah\",\"italic\":false,\"color\":\"gray\"}]}','{\"text\":\"A broken recurve bow of aspen wood\",\"italic\":false}'],Name:'{\"text\":\"Ancient Recurve\",\"color\":\"yellow\",\"italic\":false}'}}"
             }
           ]
         }

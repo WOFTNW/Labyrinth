@@ -14,7 +14,7 @@
           "functions": [
             {
               "function": "minecraft:set_nbt",
-              "tag": "{display:{Lore:['{\"text\":\"Ew... This may be the\",\"italic\":false}','{\"text\":\"oldest artifact here...\",\"italic\":false}'],Name:'{\"text\":\"Expired Milk\",\"color\":\"yellow\",\"italic\":false}'}}"
+              "tag": "{display:{Lore:['{\"text\":\"\",\"extra\":[{\"text\":\"Lost Labyrinth of Ptah\",\"italic\":false,\"color\":\"gray\"}]}','{\"text\":\"Ew... This may be the\",\"italic\":false}','{\"text\":\"oldest artifact here...\",\"italic\":false}'],Name:'{\"text\":\"Expired Milk\",\"color\":\"yellow\",\"italic\":false}'}}"
             }
           ]
         }

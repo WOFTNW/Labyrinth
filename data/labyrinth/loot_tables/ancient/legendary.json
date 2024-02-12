@@ -326,7 +326,7 @@
           "functions": [
             {
               "function": "minecraft:set_nbt",
-              "tag": "{Damage:0,display:{Lore:['{\"text\":\"An old hematite dagger with\",\"italic\":false}','{\"text\":\"trace amounts of blood\",\"italic\":false}'],Name:'{\"text\":\"Hematite Dagger\",\"color\":\"yellow\",\"italic\":false}'}}"
+              "tag": "{Damage:0,display:{Lore:['{\"text\":\"\",\"extra\":[{\"text\":\"Lost Labyrinth of Ptah\",\"italic\":false,\"color\":\"gray\"}]}','{\"text\":\"An old hematite dagger with\",\"italic\":false}','{\"text\":\"trace amounts of blood\",\"italic\":false}'],Name:'{\"text\":\"Hematite Dagger\",\"color\":\"yellow\",\"italic\":false}'}}"
             }
           ]
         }

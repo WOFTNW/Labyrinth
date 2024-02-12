@@ -14,7 +14,7 @@
           "functions": [
             {
               "function": "minecraft:set_nbt",
-              "tag": "{display:{Lore:['{\"text\":\"g\",\"italic\":false}'],Name:'{\"text\":\"Eg\",\"color\":\"yellow\",\"italic\":false}'}}"
+              "tag": "{display:{Lore:['{\"text\":\"\",\"extra\":[{\"text\":\"Lost Labyrinth of Ptah\",\"italic\":false,\"color\":\"gray\"}]}','{\"text\":\"g\",\"italic\":false}'],Name:'{\"text\":\"Eg\",\"color\":\"yellow\",\"italic\":false}'}}"
             }
           ]
         }

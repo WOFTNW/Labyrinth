@@ -287,7 +287,7 @@
           "functions": [
             {
               "function": "minecraft:set_nbt",
-              "tag": "{Damage:0,display:{Lore:['{\"text\":\"A rusted iron axe that is\",\"italic\":false}','{\"text\":\"painfully sharp and heavy\",\"italic\":false}'],Name:'{\"text\":\"Royal Axe\",\"color\":\"yellow\",\"italic\":false}'}}"
+              "tag": "{Damage:0,display:{Lore:['{\"text\":\"\",\"extra\":[{\"text\":\"Lost Labyrinth of Ptah\",\"italic\":false,\"color\":\"gray\"}]}','{\"text\":\"A rusted iron axe that is\",\"italic\":false}','{\"text\":\"painfully sharp and heavy\",\"italic\":false}'],Name:'{\"text\":\"Royal Axe\",\"color\":\"yellow\",\"italic\":false}'}}"
             }
           ]
         }
