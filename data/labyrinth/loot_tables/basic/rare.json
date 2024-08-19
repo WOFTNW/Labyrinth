@@ -2,7 +2,7 @@
   "type": "minecraft:chest",
   "pools": [
     {
-      "rolls": 27,
+      "rolls": 9,
       "entries": [
         {
           "type": "minecraft:item",
@@ -26,7 +26,7 @@
       ]
     },
     {
-      "rolls": 27,
+      "rolls": 9,
       "entries": [
         {
           "type": "minecraft:item",
@@ -50,7 +50,7 @@
       ]
     },
     {
-      "rolls": 27,
+      "rolls": 9,
       "entries": [
         {
           "type": "minecraft:item",
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "rolls": 27,
+      "rolls": 9,
       "entries": [
         {
           "type": "minecraft:loot_table",
@@ -167,7 +167,7 @@
       ]
     },
     {
-      "rolls": 27,
+      "rolls": 9,
       "entries": [
         {
           "type": "minecraft:item",
@@ -188,7 +188,7 @@
       ]
     },
     {
-      "rolls": 27,
+      "rolls": 9,
       "entries": [
         {
           "type": "minecraft:item",
@@ -209,7 +209,7 @@
       ]
     },
     {
-      "rolls": 27,
+      "rolls": 9,
       "entries": [
         {
           "type": "minecraft:item",
@@ -230,7 +230,7 @@
       ]
     },
     {
-      "rolls": 27,
+      "rolls": 9,
       "entries": [
         {
           "type": "minecraft:item",
@@ -251,7 +251,7 @@
       ]
     },
     {
-      "rolls": 27,
+      "rolls": 9,
       "entries": [
         {
           "type": "minecraft:item",
